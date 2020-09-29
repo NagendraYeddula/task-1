@@ -1,0 +1,14 @@
+Task:
+=====
+
+Step:1
+* Create a terraform template to launch 5 ubuntu instances
+Step:2
+* Insytall vagrant on ubuntu instances
+* Create a vagrant file 
+
+Step:3
+* Create a Ansible playbooks for Master and Node configuration
+
+Step:4
+*Write a Yaml file to deploy Ngins-server to the nodes
